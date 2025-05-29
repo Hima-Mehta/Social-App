@@ -1,0 +1,30 @@
+name: social-support-ai
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+
+dependencies:
+  - python=3.10
+  - pip
+  - pandas
+  - scikit-learn
+  - openpyxl
+  - pytesseract
+  - opencv
+  - pillow
+  - pdfplumber
+  - python-docx
+  - fastapi
+  - uvicorn
+  - streamlit
+  - requests
+  - fpdf
+  - pip:
+      - crewai
+      - langchain
+      - langgraph
+      - joblib
+      - python-multipart
+      - loguru
+      - openai
