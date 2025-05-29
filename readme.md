@@ -34,7 +34,6 @@ This project implements a fully automated AI pipeline for evaluating social supp
 social_support_ai/
 ├── ui/                     # Streamlit chatbot
 ├── pipelines/              # Ingestion, validation, features, decision
-├── agents/                 # Modular GenAI agents
 ├── training/               # Model training script
 ├── models/                 # Saved eligibility model
 ├── data/                   # Sample input files
