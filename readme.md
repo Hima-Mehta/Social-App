@@ -98,5 +98,5 @@ MIT License
 
 ## 👨‍💻 Author
 
-\[Your Name] – \[[hima.p.mehta@gmail.com](mailto:hima.p.mehta@gmail.com)]
+\[Hima mehta] – \[[hima.p.mehta@gmail.com](mailto:hima.p.mehta@gmail.com)]
 
