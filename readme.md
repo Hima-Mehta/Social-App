@@ -39,7 +39,7 @@ social_support_ai/
 ├── data/                   # Sample input files
 ├── README.md
 ├── environment.yml         # Conda environment definition
-└── solution_summary_doc.md # Design and architecture
+└── SocialSupportApp.docx # Design and architecture
 ```
 
 ---
