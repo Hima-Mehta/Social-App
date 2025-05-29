@@ -10,7 +10,7 @@ This project implements a fully automated AI pipeline for evaluating social supp
 * OCR and form field parsing
 * Data validation and consistency checks
 * Eligibility prediction via scikit-learn model
-* Decision and recommendation agents
+* Decision and recommendation agenta
 * Conversational chatbot (Streamlit)
 * Local LLM integration via Ollama
 
